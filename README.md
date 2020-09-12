@@ -4,18 +4,22 @@ This is a Slack-clone
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### installing
 
-In the project directory, you can run:
+Explain how to run the automated tests for this system
 
-### `npm start`
+Runing in directory server and client
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+```
+npm init
+npm install
+```
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Running this app
 
+```
+npm start
+```
 ## Screenshot
 
 <div align="center">
